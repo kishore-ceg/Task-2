@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task-2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="calc">inc/dec</string>
+    <string name="names">rand_name</string>
+    <string name="title_activity_random__names">Random_Names</string>
+    <string name="title_activity_task_1">Task_1</string>
+    <string name="add">add_btn</string>
+    <string name="sub">sub_btn</string>
+    <string name="txt">txt_area</string>
+
+</resources>
