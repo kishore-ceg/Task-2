@@ -17,7 +17,7 @@ public class krazy_apps extends ActionBarActivity {
         Thread timer =new Thread(){
             public void run(){
                 try{
-                    sleep(5000);
+                    sleep(2000);
                 }catch(Exception e){
 
                 }finally{
